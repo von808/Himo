@@ -1,4 +1,1 @@
-@Git & Github
-
-
-https://von808.github.io/Himo
+Himo: https://von808.github.io/Himo
